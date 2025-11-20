@@ -38,3 +38,6 @@ out/
 
 ### Kotlin ###
 .kotlin
+
+# env 파일 무시
+src/main/resources/env.properties
